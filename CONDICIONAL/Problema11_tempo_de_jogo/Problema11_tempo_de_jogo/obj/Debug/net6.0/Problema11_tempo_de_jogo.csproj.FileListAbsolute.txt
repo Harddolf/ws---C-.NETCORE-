@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\bin\Debug\net6.0\Problema11_tempo_de_jogo.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\bin\Debug\net6.0\Problema11_tempo_de_jogo.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\bin\Debug\net6.0\Problema11_tempo_de_jogo.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\bin\Debug\net6.0\Problema11_tempo_de_jogo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\bin\Debug\net6.0\Problema11_tempo_de_jogo.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\refint\Problema11_tempo_de_jogo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\Problema11_tempo_de_jogo.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema11_tempo_de_jogo\Problema11_tempo_de_jogo\obj\Debug\net6.0\ref\Problema11_tempo_de_jogo.dll

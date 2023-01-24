@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\bin\Debug\net6.0\Problema05_troco.exe
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\bin\Debug\net6.0\Problema05_troco.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\bin\Debug\net6.0\Problema05_troco.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\bin\Debug\net6.0\Problema05_troco.dll
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\bin\Debug\net6.0\Problema05_troco.pdb
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.dll
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\refint\Problema05_troco.dll
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.pdb
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\Problema05_troco.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema05_troco\Problema05_troco\obj\Debug\net6.0\ref\Problema05_troco.dll

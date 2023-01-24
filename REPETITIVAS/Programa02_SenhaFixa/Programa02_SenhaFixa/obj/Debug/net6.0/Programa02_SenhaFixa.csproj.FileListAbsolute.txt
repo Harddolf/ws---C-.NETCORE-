@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\bin\Debug\net6.0\Programa02_SenhaFixa.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\bin\Debug\net6.0\Programa02_SenhaFixa.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\bin\Debug\net6.0\Programa02_SenhaFixa.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\bin\Debug\net6.0\Programa02_SenhaFixa.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\bin\Debug\net6.0\Programa02_SenhaFixa.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\refint\Programa02_SenhaFixa.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\Programa02_SenhaFixa.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa02_SenhaFixa\Programa02_SenhaFixa\obj\Debug\net6.0\ref\Programa02_SenhaFixa.dll

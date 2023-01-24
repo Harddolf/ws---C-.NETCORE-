@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\bin\Debug\net6.0\Problema03_Quadrante.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\bin\Debug\net6.0\Problema03_Quadrante.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\bin\Debug\net6.0\Problema03_Quadrante.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\bin\Debug\net6.0\Problema03_Quadrante.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\bin\Debug\net6.0\Problema03_Quadrante.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\refint\Problema03_Quadrante.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\Problema03_Quadrante.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema03_Quadrante\Problema03_Quadrante\obj\Debug\net6.0\ref\Problema03_Quadrante.dll

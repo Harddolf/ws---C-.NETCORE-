@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\bin\Debug\net6.0\Problema04_troco_verificado.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\bin\Debug\net6.0\Problema04_troco_verificado.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\bin\Debug\net6.0\Problema04_troco_verificado.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\bin\Debug\net6.0\Problema04_troco_verificado.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\bin\Debug\net6.0\Problema04_troco_verificado.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\refint\Problema04_troco_verificado.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\Problema04_troco_verificado.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema04_troco_verificado\Problema04_troco_verificado\obj\Debug\net6.0\ref\Problema04_troco_verificado.dll

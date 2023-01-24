@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\bin\Debug\net6.0\Problema06_dardo.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\bin\Debug\net6.0\Problema06_dardo.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\bin\Debug\net6.0\Problema06_dardo.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\bin\Debug\net6.0\Problema06_dardo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\bin\Debug\net6.0\Problema06_dardo.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\refint\Problema06_dardo.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\Problema06_dardo.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_dardo\Problema06_dardo\obj\Debug\net6.0\ref\Problema06_dardo.dll

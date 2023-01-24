@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\bin\Debug\net6.0\Problema08_consumo.exe
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\bin\Debug\net6.0\Problema08_consumo.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\bin\Debug\net6.0\Problema08_consumo.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\bin\Debug\net6.0\Problema08_consumo.dll
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\bin\Debug\net6.0\Problema08_consumo.pdb
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.dll
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\refint\Problema08_consumo.dll
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.pdb
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\Problema08_consumo.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema08_consumo\Problema08_consumo\obj\Debug\net6.0\ref\Problema08_consumo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problema08_consumo/1.0.0": {
+        "runtime": {
+          "Problema08_consumo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema08_consumo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

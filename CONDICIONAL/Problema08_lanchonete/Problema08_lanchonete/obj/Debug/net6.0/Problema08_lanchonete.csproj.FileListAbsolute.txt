@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\bin\Debug\net6.0\Problema08_lanchonete.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\bin\Debug\net6.0\Problema08_lanchonete.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\bin\Debug\net6.0\Problema08_lanchonete.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\bin\Debug\net6.0\Problema08_lanchonete.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\bin\Debug\net6.0\Problema08_lanchonete.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\refint\Problema08_lanchonete.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\Problema08_lanchonete.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema08_lanchonete\Problema08_lanchonete\obj\Debug\net6.0\ref\Problema08_lanchonete.dll

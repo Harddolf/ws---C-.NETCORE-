@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\bin\Debug\net6.0\Problema06_glicose.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\bin\Debug\net6.0\Problema06_glicose.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\bin\Debug\net6.0\Problema06_glicose.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\bin\Debug\net6.0\Problema06_glicose.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\bin\Debug\net6.0\Problema06_glicose.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\refint\Problema06_glicose.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\Problema06_glicose.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema06_glicose\Problema06_glicose\obj\Debug\net6.0\ref\Problema06_glicose.dll

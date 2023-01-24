@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\bin\Debug\net6.0\Problema10_duracao.exe
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\bin\Debug\net6.0\Problema10_duracao.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\bin\Debug\net6.0\Problema10_duracao.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\bin\Debug\net6.0\Problema10_duracao.dll
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\bin\Debug\net6.0\Problema10_duracao.pdb
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.dll
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\refint\Problema10_duracao.dll
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.pdb
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\Problema10_duracao.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema10_duracao\Problema10_duracao\obj\Debug\net6.0\ref\Problema10_duracao.dll

@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\bin\Debug\net6.0\Problema07_temperatura.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\bin\Debug\net6.0\Problema07_temperatura.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\bin\Debug\net6.0\Problema07_temperatura.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\bin\Debug\net6.0\Problema07_temperatura.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\bin\Debug\net6.0\Problema07_temperatura.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\refint\Problema07_temperatura.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\Problema07_temperatura.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema07_temperatura\Problema07_temperatura\obj\Debug\net6.0\ref\Problema07_temperatura.dll

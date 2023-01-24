@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\bin\Debug\net6.0\Atividade_exF01.exe
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\bin\Debug\net6.0\Atividade_exF01.deps.json
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\bin\Debug\net6.0\Atividade_exF01.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\bin\Debug\net6.0\Atividade_exF01.dll
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\bin\Debug\net6.0\Atividade_exF01.pdb
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.dll
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\refint\Atividade_exF01.dll
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.pdb
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\Atividade_exF01.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Atividade_exF01\Atividade_exF01\obj\Debug\net6.0\ref\Atividade_exF01.dll

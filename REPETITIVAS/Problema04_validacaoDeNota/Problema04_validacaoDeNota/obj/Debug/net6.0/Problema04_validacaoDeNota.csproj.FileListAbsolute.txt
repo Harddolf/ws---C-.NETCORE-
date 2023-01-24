@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\bin\Debug\net6.0\Problema04_validacaoDeNota.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\bin\Debug\net6.0\Problema04_validacaoDeNota.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\bin\Debug\net6.0\Problema04_validacaoDeNota.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\bin\Debug\net6.0\Problema04_validacaoDeNota.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\bin\Debug\net6.0\Problema04_validacaoDeNota.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\refint\Problema04_validacaoDeNota.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\Problema04_validacaoDeNota.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema04_validacaoDeNota\Problema04_validacaoDeNota\obj\Debug\net6.0\ref\Problema04_validacaoDeNota.dll

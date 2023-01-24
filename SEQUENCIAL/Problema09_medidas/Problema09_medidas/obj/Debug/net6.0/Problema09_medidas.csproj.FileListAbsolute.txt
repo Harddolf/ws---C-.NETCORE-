@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\bin\Debug\net6.0\Problema09_medidas.exe
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\bin\Debug\net6.0\Problema09_medidas.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\bin\Debug\net6.0\Problema09_medidas.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\bin\Debug\net6.0\Problema09_medidas.dll
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\bin\Debug\net6.0\Problema09_medidas.pdb
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.dll
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\refint\Problema09_medidas.dll
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.pdb
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\Problema09_medidas.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema09_medidas\Problema09_medidas\obj\Debug\net6.0\ref\Problema09_medidas.dll

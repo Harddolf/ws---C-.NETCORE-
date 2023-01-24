@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\bin\Debug\net6.0\Problema03_idades.exe
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\bin\Debug\net6.0\Problema03_idades.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\bin\Debug\net6.0\Problema03_idades.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\bin\Debug\net6.0\Problema03_idades.dll
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\bin\Debug\net6.0\Problema03_idades.pdb
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.dll
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\refint\Problema03_idades.dll
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.pdb
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\Problema03_idades.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema03_idades\Problema03_idades\obj\Debug\net6.0\ref\Problema03_idades.dll

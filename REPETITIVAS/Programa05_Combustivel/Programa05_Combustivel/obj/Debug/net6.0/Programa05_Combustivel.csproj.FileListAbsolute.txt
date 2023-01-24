@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\bin\Debug\net6.0\Programa05_Combustivel.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\bin\Debug\net6.0\Programa05_Combustivel.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\bin\Debug\net6.0\Programa05_Combustivel.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\bin\Debug\net6.0\Programa05_Combustivel.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\bin\Debug\net6.0\Programa05_Combustivel.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\refint\Programa05_Combustivel.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\Programa05_Combustivel.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Programa05_Combustivel\Programa05_Combustivel\obj\Debug\net6.0\ref\Programa05_Combustivel.dll

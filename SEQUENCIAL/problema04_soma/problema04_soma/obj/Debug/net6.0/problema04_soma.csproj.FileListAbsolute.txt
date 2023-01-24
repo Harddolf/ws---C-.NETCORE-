@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\bin\Debug\net6.0\problema04_soma.exe
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\bin\Debug\net6.0\problema04_soma.deps.json
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\bin\Debug\net6.0\problema04_soma.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\bin\Debug\net6.0\problema04_soma.dll
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\bin\Debug\net6.0\problema04_soma.pdb
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.dll
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\refint\problema04_soma.dll
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.pdb
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\problema04_soma.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\problema04_soma\problema04_soma\obj\Debug\net6.0\ref\problema04_soma.dll

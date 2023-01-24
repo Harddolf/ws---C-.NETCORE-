@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\bin\Debug\net6.0\Problema12_coordenadas.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\bin\Debug\net6.0\Problema12_coordenadas.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\bin\Debug\net6.0\Problema12_coordenadas.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\bin\Debug\net6.0\Problema12_coordenadas.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\bin\Debug\net6.0\Problema12_coordenadas.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\refint\Problema12_coordenadas.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\Problema12_coordenadas.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema12_coordenadas\Problema12_coordenadas\obj\Debug\net6.0\ref\Problema12_coordenadas.dll

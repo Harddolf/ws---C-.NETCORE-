@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\bin\Debug\net6.0\Problema06_circulo.exe
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\bin\Debug\net6.0\Problema06_circulo.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\bin\Debug\net6.0\Problema06_circulo.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\bin\Debug\net6.0\Problema06_circulo.dll
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\bin\Debug\net6.0\Problema06_circulo.pdb
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.dll
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\refint\Problema06_circulo.dll
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.pdb
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\Problema06_circulo.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema06_circulo\Problema06_circulo\obj\Debug\net6.0\ref\Problema06_circulo.dll

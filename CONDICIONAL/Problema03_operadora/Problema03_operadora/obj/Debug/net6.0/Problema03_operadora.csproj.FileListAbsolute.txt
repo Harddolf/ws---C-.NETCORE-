@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\bin\Debug\net6.0\Problema03_operadora.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\bin\Debug\net6.0\Problema03_operadora.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\bin\Debug\net6.0\Problema03_operadora.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\bin\Debug\net6.0\Problema03_operadora.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\bin\Debug\net6.0\Problema03_operadora.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\refint\Problema03_operadora.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\Problema03_operadora.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema03_operadora\Problema03_operadora\obj\Debug\net6.0\ref\Problema03_operadora.dll

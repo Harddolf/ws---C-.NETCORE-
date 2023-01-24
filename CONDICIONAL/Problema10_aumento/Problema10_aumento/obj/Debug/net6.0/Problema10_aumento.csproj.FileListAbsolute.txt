@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\bin\Debug\net6.0\Problema10_aumento.exe
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\bin\Debug\net6.0\Problema10_aumento.deps.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\bin\Debug\net6.0\Problema10_aumento.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\bin\Debug\net6.0\Problema10_aumento.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\bin\Debug\net6.0\Problema10_aumento.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\refint\Problema10_aumento.dll
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.pdb
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\Problema10_aumento.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\CONDICIONAL\Problema10_aumento\Problema10_aumento\obj\Debug\net6.0\ref\Problema10_aumento.dll

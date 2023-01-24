@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\bin\Debug\net6.0\problema01_retangulo.exe
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\bin\Debug\net6.0\problema01_retangulo.deps.json
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\bin\Debug\net6.0\problema01_retangulo.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\bin\Debug\net6.0\problema01_retangulo.dll
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\bin\Debug\net6.0\problema01_retangulo.pdb
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.dll
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\refint\problema01_retangulo.dll
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.pdb
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\problema01_retangulo.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\problema01_retangulo\problema01_retangulo\obj\Debug\net6.0\ref\problema01_retangulo.dll

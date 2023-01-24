@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\bin\Debug\net6.0\Problema00_ notas.exe
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\bin\Debug\net6.0\Problema00_ notas.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\bin\Debug\net6.0\Problema00_ notas.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\bin\Debug\net6.0\Problema00_ notas.dll
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\bin\Debug\net6.0\Problema00_ notas.pdb
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.dll
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\refint\Problema00_ notas.dll
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.pdb
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\Problema00_ notas.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema00_ notas\Problema00_ notas\obj\Debug\net6.0\ref\Problema00_ notas.dll

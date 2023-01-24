@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\bin\Debug\net6.0\Problema01_mediaIdades.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\bin\Debug\net6.0\Problema01_mediaIdades.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\bin\Debug\net6.0\Problema01_mediaIdades.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\bin\Debug\net6.0\Problema01_mediaIdades.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\bin\Debug\net6.0\Problema01_mediaIdades.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\refint\Problema01_mediaIdades.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\Problema01_mediaIdades.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problema01_mediaIdades\Problema01_mediaIdades\obj\Debug\net6.0\ref\Problema01_mediaIdades.dll

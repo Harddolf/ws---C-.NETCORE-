@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\bin\Debug\net6.0\Problema01_baskara.exe
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\bin\Debug\net6.0\Problema01_baskara.deps.json
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\bin\Debug\net6.0\Problema01_baskara.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\bin\Debug\net6.0\Problema01_baskara.dll
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\bin\Debug\net6.0\Problema01_baskara.pdb
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.dll
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\refint\Problema01_baskara.dll
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.pdb
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\Problema01_baskara.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Problema01_baskara\Problema01_baskara\obj\Debug\net6.0\ref\Problema01_baskara.dll

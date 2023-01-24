@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\bin\Debug\net6.0\problema01_terreno.exe
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\bin\Debug\net6.0\problema01_terreno.deps.json
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\bin\Debug\net6.0\problema01_terreno.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\bin\Debug\net6.0\problema01_terreno.dll
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\bin\Debug\net6.0\problema01_terreno.pdb
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.dll
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\refint\problema01_terreno.dll
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.pdb
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\problema01_terreno.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\problema01_terreno\problema01_terreno\obj\Debug\net6.0\ref\problema01_terreno.dll

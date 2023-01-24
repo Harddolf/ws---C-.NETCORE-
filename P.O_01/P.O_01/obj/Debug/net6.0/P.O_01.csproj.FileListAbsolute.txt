@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\bin\Debug\net6.0\P.O_01.exe
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\bin\Debug\net6.0\P.O_01.deps.json
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\bin\Debug\net6.0\P.O_01.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\bin\Debug\net6.0\P.O_01.dll
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\bin\Debug\net6.0\P.O_01.pdb
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.dll
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\refint\P.O_01.dll
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.pdb
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\P.O_01.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\P.O_01\P.O_01\obj\Debug\net6.0\ref\P.O_01.dll

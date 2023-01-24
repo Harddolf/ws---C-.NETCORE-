@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problema11_tempo_de_jogo/1.0.0": {
+        "runtime": {
+          "Problema11_tempo_de_jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema11_tempo_de_jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
