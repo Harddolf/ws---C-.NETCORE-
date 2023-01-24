@@ -1,2 +1,2 @@
 # WS__CsharpStudy__.NETCORE--
- My repositorio for study and their csharp technologies.
+ My repository for study and their csharp technologies.
