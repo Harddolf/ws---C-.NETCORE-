@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\bin\Debug\net6.0\Problem06_ParesConsecutivos.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\bin\Debug\net6.0\Problem06_ParesConsecutivos.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\bin\Debug\net6.0\Problem06_ParesConsecutivos.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\bin\Debug\net6.0\Problem06_ParesConsecutivos.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\bin\Debug\net6.0\Problem06_ParesConsecutivos.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\refint\Problem06_ParesConsecutivos.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\Problem06_ParesConsecutivos.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Problem06_ParesConsecutivos\Problem06_ParesConsecutivos\obj\Debug\net6.0\ref\Problem06_ParesConsecutivos.dll
