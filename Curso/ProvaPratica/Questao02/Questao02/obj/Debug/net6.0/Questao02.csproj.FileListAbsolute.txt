@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\bin\Debug\net6.0\Questao02.exe
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\bin\Debug\net6.0\Questao02.deps.json
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\bin\Debug\net6.0\Questao02.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\bin\Debug\net6.0\Questao02.dll
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\bin\Debug\net6.0\Questao02.pdb
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.dll
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\refint\Questao02.dll
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.pdb
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\Questao02.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\ProvaPratica\Questao02\Questao02\obj\Debug\net6.0\ref\Questao02.dll

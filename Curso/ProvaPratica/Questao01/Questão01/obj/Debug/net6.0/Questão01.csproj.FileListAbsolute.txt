@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\bin\Debug\net6.0\Questão01.exe
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\bin\Debug\net6.0\Questão01.deps.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\bin\Debug\net6.0\Questão01.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\bin\Debug\net6.0\Questão01.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\bin\Debug\net6.0\Questão01.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\refint\Questão01.dll
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.pdb
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\Questão01.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\REPETITIVAS\Questão01\Questão01\obj\Debug\net6.0\ref\Questão01.dll

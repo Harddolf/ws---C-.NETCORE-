@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\bin\Debug\net6.0\Text_Split.exe
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\bin\Debug\net6.0\Text_Split.deps.json
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\bin\Debug\net6.0\Text_Split.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\bin\Debug\net6.0\Text_Split.dll
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\bin\Debug\net6.0\Text_Split.pdb
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.dll
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\refint\Text_Split.dll
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.pdb
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\Text_Split.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Text_Split\Text_Split\obj\Debug\net6.0\ref\Text_Split.dll

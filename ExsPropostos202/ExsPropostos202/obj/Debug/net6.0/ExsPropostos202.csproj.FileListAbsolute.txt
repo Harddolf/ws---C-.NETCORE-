@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\bin\Debug\net6.0\ExsPropostos202.exe
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\bin\Debug\net6.0\ExsPropostos202.deps.json
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\bin\Debug\net6.0\ExsPropostos202.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\bin\Debug\net6.0\ExsPropostos202.dll
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\bin\Debug\net6.0\ExsPropostos202.pdb
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.dll
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\refint\ExsPropostos202.dll
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.pdb
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ExsPropostos202.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\ExsPropostos202\ExsPropostos202\obj\Debug\net6.0\ref\ExsPropostos202.dll
