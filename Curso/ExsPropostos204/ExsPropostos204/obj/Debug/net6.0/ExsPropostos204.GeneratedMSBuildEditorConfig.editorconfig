@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Text_Split
-build_property.ProjectDir = C:\temp\ws - C#(.NETCORE)\Curso\Text_Split\Text_Split\
+build_property.RootNamespace = ExsPropostos204
+build_property.ProjectDir = C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos204\ExsPropostos204\
