@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExsPropostos206/1.0.0": {
+        "runtime": {
+          "ExsPropostos206.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExsPropostos206/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
