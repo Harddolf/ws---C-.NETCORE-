@@ -1,0 +1,15 @@
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\bin\Debug\net6.0\ExsPropostos302.exe
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\bin\Debug\net6.0\ExsPropostos302.deps.json
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\bin\Debug\net6.0\ExsPropostos302.runtimeconfig.json
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\bin\Debug\net6.0\ExsPropostos302.dll
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\bin\Debug\net6.0\ExsPropostos302.pdb
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.csproj.AssemblyReference.cache
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.AssemblyInfoInputs.cache
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.AssemblyInfo.cs
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.csproj.CoreCompileInputs.cache
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.dll
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\refint\ExsPropostos302.dll
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.pdb
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ExsPropostos302.genruntimeconfig.cache
+C:\temp\ws - C#(.NETCORE)\Curso\ExsPropostos302\ExsPropostos302\obj\Debug\net6.0\ref\ExsPropostos302.dll
